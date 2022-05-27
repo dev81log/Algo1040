@@ -11,3 +11,9 @@ Todas as respostas devem ser apresentadas com uma casa decimal. As mensagens dev
 
 2.0 4.0 7.5 8.0
 6.4
+
+Media: 5.4
+Aluno em exame.
+Nota do exame: 6.4
+Aluno aprovado.
+Media final: 5.9
