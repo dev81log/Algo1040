@@ -1,0 +1,15 @@
+C:\dev\Uri\Uri1040\bin\Debug\net6.0\Uri1040.exe
+C:\dev\Uri\Uri1040\bin\Debug\net6.0\Uri1040.deps.json
+C:\dev\Uri\Uri1040\bin\Debug\net6.0\Uri1040.runtimeconfig.json
+C:\dev\Uri\Uri1040\bin\Debug\net6.0\Uri1040.dll
+C:\dev\Uri\Uri1040\bin\Debug\net6.0\Uri1040.pdb
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\Uri1040.csproj.AssemblyReference.cache
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\Uri1040.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\Uri1040.AssemblyInfoInputs.cache
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\Uri1040.AssemblyInfo.cs
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\Uri1040.csproj.CoreCompileInputs.cache
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\Uri1040.dll
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\refint\Uri1040.dll
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\Uri1040.pdb
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\Uri1040.genruntimeconfig.cache
+C:\dev\Uri\Uri1040\obj\Debug\net6.0\ref\Uri1040.dll
